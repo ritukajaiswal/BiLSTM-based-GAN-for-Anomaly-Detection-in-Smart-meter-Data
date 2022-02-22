@@ -1,0 +1,4 @@
+numpy>=1.15.4,<1.17
+pandas>=1.15.4,<1.17
+matplotlib
+orion-ml
